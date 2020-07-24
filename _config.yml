@@ -1,0 +1,17 @@
+# Site settings
+title: "::closed world::"
+email: adam@rurisu.net
+description: >-
+  Nothing to add here.
+baseurl: ""
+url: "https://rurisu.net"
+twitter_username: ruri_su
+github_username:  aolley
+header_pages:
+  -
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
